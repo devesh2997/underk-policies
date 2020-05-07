@@ -1,4 +1,4 @@
-declare namespace index {
+declare namespace policies {
     SUPER: string
     ADMIN_VIEW: string
     ADMIN_PUBLISH: string
