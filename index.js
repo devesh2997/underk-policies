@@ -1,0 +1,5 @@
+module.exports = {
+  SUPER: 'SUPER',
+  ADMIN_VIEW: 'ADMIN_VIEW',
+  ADMIN_PUBLISH: 'ADMIN_PUBLISH'
+}
